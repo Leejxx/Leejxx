@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ### Welcome to My Profile!!!🤗🤗
 <img align="right" width="200px" src= "https://tenor.com/view/hello-gif-24408873.gif" >  
 
