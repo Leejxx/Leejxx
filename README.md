@@ -1,4 +1,10 @@
 ### Welcome to My Profile!!!🤗🤗 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
+
 Hello Guys, I'm Jia Xian. I'm a Year 3 student from Data Engineering Course in [Universiti Teknologi Malaysia](https://www.utm.my/).
 
 <img align="right" width="200px" src= "https://tenor.com/view/hello-gif-24408873.gif"> 
