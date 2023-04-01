@@ -13,11 +13,4 @@ Hello Guys, I'm Jia Xian. I'm a Year 3 student from Data Engineering Course in [
 - 🦺 From Bukit, Mertajam Penang
 - 🏸 Like to play badminton
 
-## 📈 GitHub Stats
-Here are some stats for you to see
-<details open>
-  <summary>:zap: Stats</summary>
-  <img alt="LowJunyi2001's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LowJunyi2001&show_icons=true&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowJunyi2001&layout=compact&hide=html&langs_count=10">
-</details>
 
